@@ -55,7 +55,7 @@ The entire system is implemented using **Streamlit** for a fast and interactive 
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/carbon-intensity-dashboard.git
+git clone https://github.com/paraspatil11/carbon-intensity-dashboard.git
 cd carbon-intensity-dashboard
 
 # Install dependencies
