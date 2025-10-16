@@ -58,8 +58,8 @@ The entire system is implemented using **Streamlit** for a fast and interactive 
 git clone https://github.com/paraspatil11/Predictive-modeling-of-carbon-intensity-with-Environmental-impact-analysis.git
 cd Predictive-modeling-of-carbon-intensity-with-Environmental-impact-analysis
 
-# Install dependencies
-pip install -r requirements.txt
+# For setup
+python -m venv venv && source venv/bin/activate && pip install -r requirements.txt
 
 # Run the Streamlit App
 streamlit run app.py
