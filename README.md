@@ -56,7 +56,7 @@ The entire system is implemented using **Streamlit** for a fast and interactive 
 ```bash
 # Clone the repository
 git clone https://github.com/paraspatil11/Predictive-modeling-of-carbon-intensity-with-Environmental-impact-analysis.git
-
+cd Predictive-modeling-of-carbon-intensity-with-Environmental-impact-analysis
 
 # Install dependencies
 pip install -r requirements.txt
